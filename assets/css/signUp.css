@@ -1,0 +1,32 @@
+.main-div-signup {
+  /* display: flex; */
+  background-image: linear-gradient(to right, #b5f9f9, #ffe17d);
+  width: 30%;
+  margin: auto;
+  height: auto;
+  text-align: left;
+  padding: 0% 2% 2% 2%;
+  font-size: 18px;
+}
+.main-div-signup h1 {
+  text-align: center;
+}
+.main-div-signup input {
+  width: 100%;
+  height: 20px;
+  margin: 1px 0px 10px 0px;
+}
+.main-div-signup button {
+  background-color: #6342d9;
+  width: 100%;
+  color: white;
+  height: 30px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
+

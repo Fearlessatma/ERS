@@ -14,7 +14,7 @@ Open the application in your web browser by visiting the following URL: $ http:/
 
 Features:
 
-Admin view
+Admin view:(id:admin@admin.com  password:admin)
 
 Add/remove/update/view employees
 
@@ -31,4 +31,4 @@ Submit feedback
 
 An employee can register, only admin can make an employee an admin
 
-Hosted Link - http://3.87.206.191:3000
+Hosted Link - https://ers-aufa.onrender.com
